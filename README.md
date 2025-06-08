@@ -1,6 +1,7 @@
-<h1>HOLA,COMO ESTAN?, Soy luiicode/h1>
+<h1>HOLA,COMO ESTAN?, Soy luiicode</h1>
 <br>
-Soy un estudiante que le apaciona la programacion, con ganas de aprendender nuevas habilidad y mejorar las adquiridas
+
+<p>Soy un estudiante que le apaciona la programacion, con ganas de aprendender nuevas habilidad y mejorar las adquiridas</p>
 
 
 
