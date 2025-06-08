@@ -1,11 +1,11 @@
 <h1>Hola, Como estan?</h1>
 
-    <p>
-        <h2>Soy LUIICODE</h2>
+<p>
+ <h2>Soy LUIICODE</h2>
 
-        Un estudiante de programacion que le encanta aprender nuevas tecnologias y habilidade, ademas de mejorar las adquiridas.
+ Un estudiante de programacion que le encanta aprender nuevas tecnologias y habilidade, ademas de mejorar las adquiridas.
 
-    </p>
+</p>
 
 <h2>Habilidads</h2>
 
