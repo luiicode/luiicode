@@ -1,6 +1,7 @@
 ### HOLA COMO ESTAN?, ME LLAMO [LUICODE](https://github.com/luiicode)
 
 <br>
+-----
 
 Soy un estudiante que le apaciona la programacion,
 
