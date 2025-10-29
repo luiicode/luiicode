@@ -17,7 +17,7 @@
 
 ---
 
-- 👨‍💻 Soy Estudiante de Progogramacion en Mexico.
+- 👨‍💻 Soy Estudiante de Ingenieria en Sistemas en Mexico.
 - 💬 Me encanta aprender nuevas tecnologias y poder aplicarlas a proyectos, ademas de mejorar la que ya poseo.
 - 🌱 Actualmente me encanta el desarrollo de web.
 
