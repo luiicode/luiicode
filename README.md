@@ -8,7 +8,7 @@
 🎓 Estudiante de Programación  
 💻 Desarrollo de Software y Aplicaciones Web
 
-Este perfil funciona como el **repositorio principal de demos y proyectos del equipo**, mientras el proyecto empresarial continúa creciendo.
+Este perfil funciona como el **repositorio principal de demos y proyectos del equipo**.
 
 ---
 
