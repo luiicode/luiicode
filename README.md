@@ -20,7 +20,6 @@ Ofrezco servicios de desarrollo de software, principalmente en:
 - ⚙️ Aplicaciones web modernas
 - 🧩 Proyectos académicos y demos técnicos
 - 🛠️ Prototipos para ideas o emprendimientos
-- 📦 Pruebas de concepto (POC)
 
 ---
 
@@ -29,7 +28,6 @@ Ofrezco servicios de desarrollo de software, principalmente en:
 📌 En esta cuenta estaré publicando:
 
 - Demos de aplicaciones
-- Proyectos de práctica
 - Ejemplos de código
 - Ideas experimentales
 - Landing pages y sistemas pequeños
