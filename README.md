@@ -2,41 +2,52 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
+
 # 👋 Hola, soy luiicode
 
-🎓 **Estudiante de Programación**  
-💻 **Desarrollo de Software & Aplicaciones Web**
+🎓 Estudiante de Programación  
+💻 Desarrollo de Software y Aplicaciones Web
 
-Bienvenido a mi perfil de GitHub.  
-Actualmente soy estudiante de programación y estoy enfocado en aprender y aplicar mis conocimientos creando **proyectos reales, demos y prototipos funcionales**.
-
----
-
-## 🚀 ¿Qué hago?
-
-Ofrezco servicios de desarrollo de software, principalmente en:
-
-- 🌐 Desarrollo web (Frontend & Backend)
-- ⚙️ Aplicaciones web modernas
-- 🧩 Proyectos académicos y demos técnicos
-- 🛠️ Prototipos para ideas o emprendimientos
+Este perfil funciona como el **repositorio principal de demos y proyectos del equipo**, mientras el proyecto empresarial continúa creciendo.
 
 ---
 
-## 🧪 Sobre este repositorio / esta cuenta
+## 👥 Sobre el equipo
 
-📌 En esta cuenta estaré publicando:
+Actualmente somos un equipo pequeño de desarrollo formado por:
 
-- Demos de aplicaciones
-- Ejemplos de código
-- Ideas experimentales
-- Landing pages y sistemas pequeños
+- **luiicode** – Desarrollo frontend y backend
+- **Carlos** – Desarrollo y colaboración en proyectos
 
-> Todos los proyectos están pensados como **demostraciones de mis habilidades y aprendizaje continuo**.
+Trabajamos de forma colaborativa usando Git y GitHub como base para nuestros proyectos.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🧪 Sobre estos repositorios
+
+En esta cuenta se publican:
+
+- Demos funcionales
+- Proyectos de práctica
+- Pruebas de concepto
+- Landing pages
+- Aplicaciones web en desarrollo
+
+📌 Estos proyectos representan el trabajo y aprendizaje continuo del equipo.
+
+---
+
+## 🏗️ Estructura actual de trabajo
+
+- Los repositorios viven en esta cuenta (GitHub principal)
+- Los colaboradores trabajan mediante clonación y commits
+- Todos los integrantes aparecen como contributors
+
+👉 Cuando el equipo crezca (5–6 desarrolladores), los repositorios se migrarán a una **cuenta empresarial (GitHub Organization)**.
+
+---
+
+## 🛠️ Tecnologías principales
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,13 +63,6 @@ Ofrezco servicios de desarrollo de software, principalmente en:
 
 ## 📚 Objetivo
 
-Seguir aprendiendo, mejorar mis habilidades como desarrollador y colaborar en proyectos donde pueda aportar valor mientras crezco profesionalmente.
+Seguir creciendo como equipo, crear soluciones reales y consolidar una base sólida para el futuro proyecto empresarial.
 
----
-
-## 📬 Contacto
-
-Si te interesa colaborar, necesitas un demo o un proyecto sencillo, no dudes en contactarme.
-
-⭐ Gracias por visitar mi perfil  
-💪 Siempre aprendiendo y construyendo
+⭐ Gracias por visitar el perfil
