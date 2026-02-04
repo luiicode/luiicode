@@ -12,38 +12,20 @@ Este perfil funciona como el **repositorio principal de demos y proyectos del eq
 
 ---
 
-## 👥 Sobre el equipo
-
-Actualmente somos un equipo pequeño de desarrollo formado por:
-
-- **luiicode** – Desarrollo frontend y backend
-- **Carlos** – Desarrollo y colaboración en proyectos
-
-Trabajamos de forma colaborativa usando Git y GitHub como base para nuestros proyectos.
+## 🧩 Proyectos personales
+Aquí encontrarás:
+- Demos técnicas
+- Pruebas de conceptos
+- Proyectos personales de aprendizaje
 
 ---
 
-## 🧪 Sobre estos repositorios
+## 🚀 CODEXA (proyecto independiente)
+Actualmente estoy desarrollando **CODEXA**, un proyecto personal enfocado en soluciones de software.
 
-En esta cuenta se publican:
-
-- Demos funcionales
-- Proyectos de práctica
-- Pruebas de concepto
-- Landing pages
-- Aplicaciones web en desarrollo
-
-📌 Estos proyectos representan el trabajo y aprendizaje continuo del equipo.
-
----
-
-## 🏗️ Estructura actual de trabajo
-
-- Los repositorios viven en esta cuenta (GitHub principal)
-- Los colaboradores trabajan mediante clonación y commits
-- Todos los integrantes aparecen como contributors
-
-👉 Cuando el equipo crezca (5–6 desarrolladores), los repositorios se migrarán a una **cuenta empresarial (GitHub Organization)**.
+📌 **Nota importante**  
+Los proyectos relacionados con CODEXA son **iniciativas personales independientes** y  
+**no están afiliados ni relacionados con mi empleo actual ni con terceros**.
 
 ---
 
@@ -61,8 +43,11 @@ En esta cuenta se publican:
 
 ---
 
-## 📚 Objetivo
+## 📫 Contacto
+El contacto profesional y comercial se gestiona directamente desde CODEXA.
 
-Seguir creciendo como equipo, crear soluciones reales y consolidar una base sólida para el futuro proyecto empresarial.
+---
+
+⭐ Este perfil se mantiene como entorno técnico personal.
 
 ⭐ Gracias por visitar el perfil
