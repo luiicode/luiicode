@@ -35,23 +35,7 @@ Soy estudiante de **Ingeniería en Software y Redes** con la misión de construi
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <!-- Tarjeta de Stats Principal -->
-  <img width="490" src="https://github-readme-stats.vercel.app/api?username=luiicode&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Luis's GitHub stats" />
-  
-  <!-- Tarjeta de Lenguajes -->
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiicode&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
-</p>
-
-### 🐍 Mi contribución en código
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiicode/luiicode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiicode/luiicode/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luiicode/luiicode/output/github-contribution-grid-snake.svg">
-</picture>
+### 🧩 Proyectos personales
 
 ---
 
