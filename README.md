@@ -2,52 +2,60 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
+# Hi there! I'm Luis Eduardo Cortes Lopez 👋 🚀
 
-# 👋 Hola, soy luiicode
+### 🎓 Software & Network Engineering Student | Aspiring Web Developer & AI Enthusiast
 
-🎓 Estudiante de Programación  
-💻 Desarrollo de Software y Aplicaciones Web
-
-Este perfil se utliza para proyectos personales, demos técnicos y prácticas de desarrollo.
+Soy un apasionado de la tecnología en constante aprendizaje, enfocado en el **Desarrollo Web Frontend** y la integración de soluciones inteligentes. Mi meta es construir una carrera como **Desarrollador Web Fullstack** y explorar nuevas fronteras tecnológicas alrededor del mundo. 🌍✈️
 
 ---
 
-## 🧩 Proyectos personales
-Aquí encontrarás:
-- Demos técnicas
-- Pruebas de conceptos
-- Proyectos personales de aprendizaje
+### ⚡ Quick Bio
+
+- 🔭 **Actualmente:** Perfeccionando mis habilidades en React y Angular.
+- 🤖 **IA & Salesforce:** Participando activamente en el programa de IA de Salesforce, con el objetivo puesta en el **Hackathon** para ganar un viaje a San Francisco (Dreamforce/AI Event) en Silicon Valley. 🌁
+- 💼 **Objetivo:** Convertirme en un Desarrollador Web Fullstack.
+- 💬 **Hablamos sobre:** React, TypeScript y el ecosistema de Salesforce.
 
 ---
 
-## 🚀 CODEXA (proyecto independiente)
-Actualmente estoy desarrollando **CODEXA**, un proyecto personal enfocado en soluciones de software.
+### 🛠️ Tech Stack
 
-📌 **Nota importante**  
-Los proyectos relacionados con CODEXA son **iniciativas personales independientes** y  
-**no están afiliados ni relacionados con mi empleo actual ni con terceros**.
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</div>
 
----
-
-## 🛠️ Tecnologías principales
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-### Backend
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+<div align="left" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</div>
 
 ---
 
-## 📫 Contacto
-El contacto profesional y comercial se gestiona directamente desde CODEXA.
+### 📈 GitHub Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐ Este perfil se mantiene como entorno técnico personal.
+### 📫 Connect with me
 
-⭐ Gracias por visitar el perfil
+<p align="left">
+<a href="https://linkedin.com/in/[TU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[TU_NOMBRE]" height="30" width="40" /></a>
+<a href="mailto:tu-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="tu-email" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"El código es la herramienta, pero la curiosidad es el motor."</i>
+</p>
