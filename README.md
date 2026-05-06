@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&height=80&lines=Luis+Cortes+::+Engineering+Student;Web+Developer+in+React+&++TS;Salesforce+AI+Participant;Future+Freelance+Nomad](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&height=80&lines=Luis+Cortes+::+Engineering+Student;Web+Developer+in+React+&++TS;Salesforce+AI+Participant;Future+Freelance+Nomad)..." alt="Typing SVG" />
+</p>
+
 # Hi there! I'm Luis Cortes 👋 🚀
 
 ### 🎓 Software & Network Engineering Student | Web Developer | AI & Salesforce Enthusiast
