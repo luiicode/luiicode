@@ -38,9 +38,20 @@ Soy estudiante de **Ingeniería en Software y Redes** con la misión de construi
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luiicode&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiicode&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Tarjeta de Stats Principal -->
+  <img width="490" src="https://github-readme-stats.vercel.app/api?username=luiicode&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Luis's GitHub stats" />
+  
+  <!-- Tarjeta de Lenguajes -->
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiicode&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" />
 </p>
+
+### 🐍 Mi contribución en código
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiicode/luiicode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiicode/luiicode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luiicode/luiicode/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -53,7 +64,7 @@ Soy estudiante de **Ingeniería en Software y Redes** con la misión de construi
 <a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="blank">
   <img align="center" src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Luis Cortes Indeed" height="35" />
 </a>
-<a href="mailto:tu-correo@ejemplo.com" target="blank">
+<a href="luiseduardo.corte35@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
 </a>
 </p>
