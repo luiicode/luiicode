@@ -1,21 +1,17 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+# Hi there! I'm Luis Cortes 👋 🚀
 
-# Hi there! I'm Luis Eduardo Cortes Lopez 👋 🚀
+### 🎓 Software & Network Engineering Student | Web Developer | AI & Salesforce Enthusiast
 
-### 🎓 Software & Network Engineering Student | Aspiring Web Developer & AI Enthusiast
-
-Soy un apasionado de la tecnología en constante aprendizaje, enfocado en el **Desarrollo Web Frontend** y la integración de soluciones inteligentes. Mi meta es construir una carrera como **Desarrollador Web Fullstack** y explorar nuevas fronteras tecnológicas alrededor del mundo. 🌍✈️
+Soy estudiante de **Ingeniería en Software y Redes** con la misión de construir experiencias web modernas y funcionales. Mi objetivo es desarrollarme como **Desarrollador Web Fullstack** y llevar mis habilidades a cualquier parte del mundo. 🌍✈️
 
 ---
 
-### ⚡ Quick Bio
+### ⚡ Sobre mí
 
-- 🔭 **Actualmente:** Perfeccionando mis habilidades en React y Angular.
-- 🤖 **IA & Salesforce:** Participando activamente en el programa de IA de Salesforce, con el objetivo puesta en el **Hackathon** para ganar un viaje a San Francisco (Dreamforce/AI Event) en Silicon Valley. 🌁
-- 💼 **Objetivo:** Convertirme en un Desarrollador Web Fullstack.
-- 💬 **Hablamos sobre:** React, TypeScript y el ecosistema de Salesforce.
+- 🔭 **Enfoque actual:** Perfeccionando el ecosistema de **React** y **Angular**.
+- 🤖 **Road to San Francisco:** Actualmente participando en el curso de **IA de Salesforce** para competir en su hackathon y ganar el viaje a Silicon Valley. 🌉
+- 💼 **Freelance:** Disponible para proyectos de desarrollo web frontend.
+- 💬 **Intereses:** TypeScript, arquitectura de software y el potencial de la IA generativa.
 
 ---
 
@@ -48,14 +44,24 @@ Soy un apasionado de la tecnología en constante aprendizaje, enfocado en el **
 
 ---
 
-### 📫 Connect with me
+### 📫 Contacto & Redes Profesionales
 
 <p align="left">
-<a href="https://linkedin.com/in/[TU_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[TU_NOMBRE]" height="30" width="40" /></a>
-<a href="mailto:tu-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="tu-email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-cortes-901719339/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Luis Cortes LinkedIn" height="35" />
+</a>
+<a href="https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Luis Cortes Indeed" height="35" />
+</a>
+<a href="mailto:tu-correo@ejemplo.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" />
+</a>
 </p>
 
 ---
 <p align="center">
-  <i>"El código es la herramienta, pero la curiosidad es el motor."</i>
-</p>
+  <i>"Transformando líneas de código en oportunidades globales."</i>
+</p><div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
