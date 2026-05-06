@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&height=80&lines=Luis+Cortes+::+Engineering+Student;Web+Developer+in+React+&++TS;Salesforce+AI+Participant;Future+Freelance+Nomad](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=F7DF1E&center=true&vCenter=true&width=700&height=80&lines=Luis+Cortes+::+Engineering+Student;Web+Developer+in+React+&++TS;Salesforce+AI+Participant;Future+Freelance+Nomad)..." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20232a,100:00A1E0&height=220&section=header&text=Luis%20Cortes&fontSize=65&fontColor=fff&animation=twinkle&fontAlignY=35&desc=Software%20&%20Network%20Engineer%20%7C%20Web%20Developer&descAlignY=55&descFontSize=22" alt="Banner de Luis Cortes" />
 </p>
 
 # Hi there! I'm Luis Cortes 👋 🚀
