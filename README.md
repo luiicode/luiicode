@@ -42,8 +42,8 @@ Soy un apasionado de la tecnología en constante aprendizaje, enfocado en el **
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luiicode&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiicode&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
