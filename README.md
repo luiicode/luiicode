@@ -28,8 +28,6 @@ Soy estudiante de **Ingeniería en Software y Redes** con la misión de construi
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
