@@ -8,19 +8,20 @@
 
 ### ⚡ Sobre mí
 
-Soy estudiante de Ingeniería en Software y Redes (8vo cuatrimestre), construyendo experiencia real en desarrollo web — desde interfaces cuidadas al detalle hasta la conexión de frontends con bases de datos y plataformas externas como Salesforce Data Cloud. Me gusta convertir requerimientos complicados en interfaces limpias y bien estructuradas por componentes, y actualmente estoy ampliando mi rango full stack (flujos de autenticación, diseño de esquemas, integración de APIs).
+Soy estudiante de Ingeniería en Software y Redes (8vo cuatrimestre), construyendo experiencia real en desarrollo web — desde interfaces hasta la conexión de frontends con bases de datos y plataformas externas como Salesforce Data Cloud. Me gusta convertir requerimientos complicados en interfaces limpias y bien estructuradas por componentes, y actualmente estoy ampliando mi rango full stack (flujos de autenticación, diseño de esquemas, integración de APIs).
 
-Estoy documentando todo el proceso en video — desde estos primeros proyectos hasta la meta de ser freelancer internacional de tiempo completo o sumarme a un equipo como Google. Si prefieres ver el camino en vez de solo el resultado final, lo encuentras en los links de abajo.
+Estoy documentando todo el proceso en video — desde nuevos temas hasta proyectos, con el fin de cumplir mi meta de ser freelancer internacional de tiempo completo o sumarme a un equipo de una BigTech. Si prefieres ver el camino en vez de solo el resultado final, lo encuentras en los links de abajo.
 
-- 🔭 Actualmente construyendo un roadmap de 4 proyectos full stack — agenda y reservaciones, gestión de procesos operativos, dashboard financiero y e-commerce
-- 🌱 Aprendiendo: diseño de esquemas y permisos, flujos de autenticación (Better Auth, Supabase Auth) y profundizando en integración backend
-- 🎯 Objetivo: freelancer internacional o un puesto full stack en un equipo como el de Google
+- 🌱 Aprendiendo: Backend (lenguajes de programación, base de datos), flujos de autenticación (Better Auth, Supabase Auth) y desarrollo mobile con flutter y dart
+- 🎯 Objetivo: freelancer internacional o un puesto full stack en un equipo de una BigTech
 - 💬 Pregúntame sobre: arquitectura de componentes en React, Tailwind CSS, shadcn/ui o interfaces de dashboards
 - 🌍 Ubicado en Estado de México — abierto a trabajo remoto
 
 ---
 
 ### 🛠️ Tech Stack
+
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -33,13 +34,28 @@ Estoy documentando todo el proceso en video — desde estos primeros proyectos h
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 **Backend y Datos**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) -->
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Herramientas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-000000?style=flat&logo=goland&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
 
 ---
 
@@ -53,15 +69,13 @@ Dashboard de analítica en tiempo real construido con Next.js, React y TypeScrip
 Landing page responsiva para una empresa de construcción y remodelación de hogares, hecha para mostrar mis fundamentos de frontend: estructura de componentes, ruteo e interfaz limpia.
 `React` `TypeScript` `Vite` `React Router` `Tailwind CSS` `shadcn/ui`
 
-🚧 **En construcción** — 4 proyectos full stack nuevos, cada uno con un producto y un componente técnico distinto (backend real, modelado de procesos, roles y reportes, búsqueda y concurrencia). Sígueme en video mientras los construyo.
-
 <img src="https://raw.githubusercontent.com/luiicode/luiicode/output/snake.svg" alt="Snake animation" />
 
 ---
 
 ### 🎥 Building in Public
 
-Como pasatiempo, documento en video todo el proceso de convertirme en freelancer de tiempo completo o entrar a un equipo como Google — desde el primer commit hasta el resultado final.
+Como pasatiempo, documento en video todo el proceso de convertirme en freelancer de tiempo completo o entrar a un equipo de una BigTech.
 
 <p align="left">
 <a href="https://www.tiktok.com/@luiicode" target="blank">
