@@ -46,23 +46,20 @@ Convierto requerimientos complicados en interfaces limpias y bien estructuradas.
 
 ### 📌 Proyectos Destacados
 
-**[Visual Logic Dashboard](LINK_AL_REPO)** · [Demo en vivo](LINK_DEMO)
+**[Visual Logic Dashboard](LINK_AL_REPO)**
 *Hackathon Salesforce Agentforce (mayo 2026, equipo de 2)*
 
 Dashboard de analítica en tiempo real. Desarrollé la totalidad del frontend: módulos de Analytics, Ventas, Equipos y Tickets con gráficas interactivas. También configuré la integración con Salesforce Data Cloud para que los cambios del agente de IA se reflejaran en vivo en la interfaz, además del flujo de autenticación y las políticas de acceso y variables de entorno que conectan la app con Salesforce.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts` `Salesforce Data Cloud` `NextAuth`
 
-<!-- Agrega una captura: ![Visual Logic Dashboard](ruta/captura.png) -->
 
-**[Home Service](LINK_AL_REPO)** · [Demo en vivo](LINK_DEMO)
+**[Home Service](LINK_AL_REPO)**
 *Proyecto de portafolio*
 
 Landing page responsiva para una empresa de construcción y remodelación de hogares: estructura por componentes, ruteo e interfaz limpia pensada para convertir visitas en contactos.
 
 `React` `TypeScript` `Vite` `React Router` `Tailwind CSS` `shadcn/ui`
-
-<!-- Agrega una captura: ![Home Service](ruta/captura.png) -->
 
 ---
 
