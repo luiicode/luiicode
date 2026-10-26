@@ -46,7 +46,7 @@ Convierto requerimientos complicados en interfaces limpias y bien estructuradas.
 
 ### 📌 Proyectos Destacados
 
-**[Visual Logic Dashboard](LINK_AL_REPO)**
+**[Visual Logic Dashboard](https://github.com/luiicode/VisualLogic-Dashboard)**
 *Hackathon Salesforce Agentforce (mayo 2026, equipo de 2)*
 
 Dashboard de analítica en tiempo real. Desarrollé la totalidad del frontend: módulos de Analytics, Ventas, Equipos y Tickets con gráficas interactivas. También configuré la integración con Salesforce Data Cloud para que los cambios del agente de IA se reflejaran en vivo en la interfaz, además del flujo de autenticación y las políticas de acceso y variables de entorno que conectan la app con Salesforce.
@@ -54,7 +54,7 @@ Dashboard de analítica en tiempo real. Desarrollé la totalidad del frontend: m
 `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts` `Salesforce Data Cloud` `NextAuth`
 
 
-**[Home Service](LINK_AL_REPO)**
+**[Home Service](https://github.com/luiicode/Home-Service)**
 *Proyecto de portafolio*
 
 Landing page responsiva para una empresa de construcción y remodelación de hogares: estructura por componentes, ruteo e interfaz limpia pensada para convertir visitas en contactos.
