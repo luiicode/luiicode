@@ -46,7 +46,7 @@ Convierto requerimientos complicados en interfaces limpias y bien estructuradas.
 
 ### 📌 Proyectos Destacados
 
-**[Visual Logic Dashboard](https://github.com/luiicode/VisualLogic-Dashboard)**
+**[Visual Logic Dashboard](https://github.com/luiicode/VisualLogic-Dashboard)** - 
 *Hackathon Salesforce Agentforce (mayo 2026, equipo de 2)*
 
 Dashboard de analítica en tiempo real. Desarrollé la totalidad del frontend: módulos de Analytics, Ventas, Equipos y Tickets con gráficas interactivas. También configuré la integración con Salesforce Data Cloud para que los cambios del agente de IA se reflejaran en vivo en la interfaz, además del flujo de autenticación y las políticas de acceso y variables de entorno que conectan la app con Salesforce.
@@ -54,7 +54,7 @@ Dashboard de analítica en tiempo real. Desarrollé la totalidad del frontend: m
 `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Recharts` `Salesforce Data Cloud` `NextAuth`
 
 
-**[Home Service](https://github.com/luiicode/Home-Service)**
+**[Home Service](https://github.com/luiicode/Home-Service)** - 
 *Proyecto de portafolio*
 
 Landing page responsiva para una empresa de construcción y remodelación de hogares: estructura por componentes, ruteo e interfaz limpia pensada para convertir visitas en contactos.
@@ -92,8 +92,5 @@ Certificado de Participación: Hackathon Salesforce Agentforce (mayo 2026)
 <p align="left">
 <a href="mailto:luiseduardo.corte35@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" height="35" />
-</a>
-<a href="https://www.linkedin.com/in/luis-cortes-901719339/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35" />
 </a>
 </p>
